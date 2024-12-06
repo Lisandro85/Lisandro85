@@ -1,43 +1,68 @@
-# 👋 ¡Hola! Soy Lisandro
+# 👋 ¡Hola! Soy **Lisandro**  
 
-🇦🇷 Argentino viviendo en la hermosa isla de Cerdeña, Italia 🇮🇹.  
-Soy un apasionado del desarrollo web **backend**. Me encanta crear estructuras robustas y escalables, adaptadas a las necesidades de cada negocio y desafío que se presente. 🌐
-
----
-
-### Sobre mí
-
-Actualmente, estoy ampliando mis conocimientos para aprovechar al máximo las tecnologías que he aprendido últimamente.  
-💻 Me apasiona el backend porque me permite reflejar mi estructura personal en el código, creando sistemas organizados, eficientes y adaptables. 🛠️
+🇦🇷 Argentino viviendo en la hermosa isla de 🌴 **Cerdeña, Italia**  
+💻 **Apasionado del desarrollo web backend**. Me encanta crear **estructuras robustas y escalables**, adaptadas a cada negocio y desafío. 🌐
 
 ---
 
-### 🚀 Habilidades y Tecnologías
+## 🌟 Sobre mí  
 
-- **Lenguajes de Programación**: JavaScript, TypeScript
-- **Frameworks y Librerías**: NestJS, Express, React
-- **ORM y Bases de Datos**: TypeORM, PostgreSQL, MongoDB, Mongoose
-- **Frontend**: HTML, CSS, REACT, Next.js 
+Actualmente, estoy ampliando mis conocimientos para dominar aún más las tecnologías que uso día a día.  
+🎯 El desarrollo backend me apasiona porque me permite reflejar mi estructura personal en el código, creando sistemas **organizados, eficientes y adaptables**. 🛠️
 
 ---
 
-### 📂 Proyectos Destacados
+## 🚀 Habilidades y Tecnologías  
 
-**[Buddify](https://github.com/Lisandro85/Buddify)**: Una aplicación tipo red social que permite crear y unirse a actividades con otras personas que no conozcas. Construida en el backend con NestJS, TypeORM, TypeScript y PostgreSQL; y en el frontend con Next.js, TypeScript, React y Tailwind CSS.
-  
-**[Ecommerce](https://github.com/Lisandro85/ecommerceDeploy)**: Una aplicación que proporciona la estructura de backend para un ecommerce, construida con NestJS, PostgreSQL, TypeScript y TypeORM.
-
-**[Sistema de turnos resto-bar](https://github.com/Lisandro85/sistema-de-turnos-resto-bar)**: Una aplicación que gestiona los turnos en un resto-bar, construida con TypeScript, PostgreSQL, Express y React.
-
-**[Movies-Plataforma](https://github.com/Lisandro85/Movies-Plataforma)**: Una aplicación que simula una plataforma de streaming de películas, construida con JavaScript, HTML, CSS, Bootstrap, Mongoose, MongoDB y Express.
+| **Lenguajes**         | **Frameworks y Librerías** | **Bases de Datos**        | **Frontend**          |
+|-----------------------|---------------------------|--------------------------|-----------------------|
+| JavaScript, TypeScript | NestJS, Express, React   | PostgreSQL, MongoDB      | HTML, CSS, React, Next.js |
+|                       |                           | TypeORM, Mongoose        | Tailwind CSS          |
 
 ---
 
-### 🌐 Conéctate conmigo
+## 📂 **Proyectos Destacados**  
 
-- 📧 Email: [lisandrobedotti@hotmail.com](mailto:lisandrobedotti@hotmail.com)
-- [LinkedIn](https://www.linkedin.com/in/lisandro-bedotti-93733a299): Lisandro Bedotti
+### 🎉 [Buddify](https://github.com/Lisandro85/Buddify)  
+> **Una red social para conectar personas a través de actividades.**  
+> - 🛠 **Tecnologías**: NestJS, TypeORM, TypeScript, PostgreSQL, Next.js, Tailwind CSS  
+> - 🌟 **Características**: Crear y unirse a eventos, perfiles de usuario y exploración de actividades.  
 
+---
 
+### 🛒 [Ecommerce](https://github.com/Lisandro85/ecommerceDeploy)  
+> **Estructura backend para un ecommerce funcional.**  
+> - 🛠 **Tecnologías**: NestJS, PostgreSQL, TypeScript, TypeORM  
+> - 🌟 **Características**: Gestión de productos, usuarios y pedidos.
 
+---
 
+### 🍽️ [Sistema de Turnos Resto-Bar](https://github.com/Lisandro85/sistema-de-turnos-resto-bar)  
+> **Aplicación para gestionar turnos y reservas en restaurantes.**  
+> - 🛠 **Tecnologías**: TypeScript, PostgreSQL, Express, React  
+> - 🌟 **Características**: Reservas en tiempo real y gestión de clientes.  
+
+---
+
+### 🎬 [Movies-Plataforma](https://github.com/Lisandro85/Movies-Plataforma)  
+> **Simulación de una plataforma de streaming de películas.**  
+> - 🛠 **Tecnologías**: JavaScript, HTML, CSS, Bootstrap, Mongoose, MongoDB, Express  
+> - 🌟 **Características**: Catálogo de películas y gestión de usuarios.  
+
+---
+
+## 🌐 **Conéctate conmigo**  
+
+📫 **Email**: [lisandrobedotti@hotmail.com](mailto:lisandrobedotti@hotmail.com)  
+🔗 **LinkedIn**: [Lisandro Bedotti](https://www.linkedin.com/in/lisandro-bedotti-93733a299)  
+
+---
+
+### 📊 **Mis Estadísticas**  
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Lisandro85&show_icons=true&theme=radical&count_private=true)  
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Lisandro85&layout=compact&theme=radical)
+
+---
+
+¡Gracias por visitar mi perfil! 🚀 Si te gusta lo que hago o tienes algún proyecto interesante, no dudes en contactarme. 😊
