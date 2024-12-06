@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy **Lisandro**  
 
-🇦🇷 Argentino viviendo en la hermosa isla de 🌴 **Cerdeña, Italia**  
+Argentino viviendo en la hermosa isla de 🌴 **Cerdeña, Italia**  
 💻 **Apasionado del desarrollo web backend**. Me encanta crear **estructuras robustas y escalables**, adaptadas a cada negocio y desafío. 🌐
 
 ---
