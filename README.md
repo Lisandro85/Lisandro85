@@ -1,23 +1,36 @@
 # 👋 ¡Hola! Soy **Lisandro**  
 
-Argentino viviendo en la hermosa isla de 🌴 **Cerdeña, Italia**  
-💻 **Apasionado del desarrollo web backend**. Me encanta crear **estructuras robustas y escalables**, adaptadas a cada negocio y desafío. 🌐
+**Argentino viviendo en la hermosa isla de Cerdeña, Italia**  
+💻 **Apasionado del desarrollo backend**. Me encanta crear **estructuras robustas y escalables**, adaptadas a los desafíos modernos. 🌟  
 
 ---
 
-## 🌟 Sobre mí  
-
-Actualmente, estoy ampliando mis conocimientos para dominar aún más las tecnologías que uso día a día.  
-🎯 El desarrollo backend me apasiona porque me permite reflejar mi estructura personal en el código, creando sistemas **organizados, eficientes y adaptables**. 🛠️
+![Banner](https://via.placeholder.com/1200x300?text=%F0%9F%91%8B+Hola%2C+Soy+Lisandro+%F0%9F%9A%80+Back-end+Developer+)
 
 ---
 
-## 🚀 Habilidades y Tecnologías  
+## 🌟 **Sobre mí**  
 
-| **Lenguajes**         | **Frameworks y Librerías** | **Bases de Datos**        | **Frontend**          |
-|-----------------------|---------------------------|--------------------------|-----------------------|
-| JavaScript, TypeScript | NestJS, Express, React   | PostgreSQL, MongoDB      | HTML, CSS, React, Next.js |
-|                       |                           | TypeORM, Mongoose        | Tailwind CSS          |
+> 🎯 **Estructura y escalabilidad** son mi lema en el desarrollo.  
+> 🛠️ Creo sistemas organizados, eficientes y fáciles de mantener.  
+> 🎓 En constante aprendizaje, siempre buscando soluciones innovadoras.  
+
+📍 Actualmente, perfeccionando mis habilidades con las últimas tecnologías.  
+
+---
+
+## 🚀 **Habilidades y Tecnologías**  
+
+<div align="center">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+</div>
 
 ---
 
@@ -53,16 +66,20 @@ Actualmente, estoy ampliando mis conocimientos para dominar aún más las tecnol
 
 ## 🌐 **Conéctate conmigo**  
 
-📫 **Email**: [lisandrobedotti@hotmail.com](mailto:lisandrobedotti@hotmail.com)  
-🔗 **LinkedIn**: [Lisandro Bedotti](https://www.linkedin.com/in/lisandro-bedotti-93733a299)  
+<div align="center">
+  <a href="mailto:lisandrobedotti@hotmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/lisandro-bedotti-93733a299"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</div>
 
 ---
 
-### 📊 **Mis Estadísticas**  
+## 📊 **Mis Estadísticas**  
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Lisandro85&show_icons=true&theme=radical&count_private=true)  
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Lisandro85&layout=compact&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lisandro85&show_icons=true&theme=radical&count_private=true" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lisandro85&layout=compact&theme=radical" alt="Lenguajes más usados" />
+</div>
 
 ---
 
-¡Gracias por visitar mi perfil! 🚀 Si te gusta lo que hago o tienes algún proyecto interesante, no dudes en contactarme. 😊
+![Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
