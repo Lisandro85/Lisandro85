@@ -66,7 +66,7 @@ Argentino viviendo en la hermosa isla de 🌴 **Cerdeña, Italia**
   <a href="mailto:lisandrobedotti@hotmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://www.linkedin.com/in/lisandro-bedotti-93733a299"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://bedottiwebsite.vercel.app">
-  <img src="https://img.shields.io/badge/-Portafolio-1E90FF?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Portafolio">
+  <img src="https://img.shields.io/badge/-Portfolio-1E90FF?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Portfolio">
 </a>
 </div>
 
